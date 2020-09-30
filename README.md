@@ -14,7 +14,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-Simply run `main.py` and watch it go!
+Rename `examplepraw.ini` to `praw.ini` and edit it with your bot's configuration.
+
+Then run `main.py` and watch it go!
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
